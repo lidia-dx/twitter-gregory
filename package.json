@@ -1,13 +1,16 @@
 {
-    "name": "social",
-    "version": "0.1.0",
-    "description": "Demonstrating promises",
+    "name": "twitter-gregory",
+    "version": "0.2.0",
+    "description": "Demonstrating work of twitter stream",
     "main": "app.js",
     "dependencies": {
         "dotenv": "~1.2.0",
         "mongodb": "~2.1.3",
         "twitter": "~1.2.5"
     },
-    "author": "Shannon Bradshaw",
+    "contributors": [
+        {"name": "Lidia Khmylko"},
+        {"name": "Shannon Bradshaw"}
+    ],
     "license": "0BSD"
 }

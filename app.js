@@ -1,3 +1,8 @@
+/**
+ * TwitterClient connects to Twitter API and listens to the stream with
+ * #alexa, logs results and saves the tweets to "gregory" database in MongoDB
+ */
+
 var MongoClient = require('mongodb').MongoClient,
     Twitter = require('twitter'),
     assert = require('assert');
