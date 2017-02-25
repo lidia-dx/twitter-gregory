@@ -13,3 +13,4 @@ TWITTER_CONSUMER_SECRET
 TWITTER_ACCESS_TOKEN_KEY
 TWITTER_ACCESS_TOKEN_SECRET
 
+Inspired by MongoDB University class "M101JS: MongoDB for Node.js Developers"
